@@ -1,0 +1,154 @@
+* {
+    margin: 0px;
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    height: 10vh;
+    text-align: center;
+    background-color: rgb(87, 87, 87);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+    
+.abasmenu {
+    display: inline-block;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+#imginicial {
+    background-color: darkgrey;
+    height: 585px;
+    width: 100%;
+}
+
+#linha1 {
+    height: 700px;
+    margin-left: 20px;
+    background-color: black;
+    position: absolute;
+    border: 1.3px solid black;
+
+}
+
+/* Decoração */
+#linha2 {
+    height: 700px;
+    margin-left: 28px;
+    background-color: black;
+    position: absolute;
+    border: 1.1px solid black;
+}
+
+/* Conteúdo 1 */
+#conteudo1 {
+    margin-top: 30px;
+    width: 570px;
+    margin-left: 70px;
+    text-align: justify;
+}
+
+.titulo1 {
+    color: rgba(4, 55, 26, 1);
+    font-size: 20px;
+    font-weight: bold;
+}
+#vector {
+    width: 400px;
+    background-color: black;
+    position: absolute;
+    border: 1.2px solid black;
+}
+
+.texto {
+    margin-top: 7px;
+}
+
+#saiba1 {
+    margin-top: 10px;
+    text-align: right;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: 2px underline;
+}
+
+#divimg1 {
+    height: 243px;
+    width:630px;
+    margin-left: 680px;
+    background-color: lightslategray;
+    position: absolute;
+    top: 650px;
+
+}
+
+#vector2 {
+    width: 727px;
+    background-color: black;
+    border: 1.2px solid black;
+    position: absolute;
+    margin-left: 581px;
+    margin-top: 42px;
+}
+
+/* Conteúdo 2 */
+
+
+#conteudo2 {
+    margin-top: 4vh;
+    width: 570px;
+    margin-left: 595px;
+    text-align: justify;
+}
+
+.titulo2 {
+    margin-top: 42px;
+    margin-left: 581px;
+    
+}
+
+.retangulo1 > .texto {
+    color: rgba(3, 41, 19, 1);
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+
+.retangulo1 {
+    background-color: rgb(180, 180, 180);
+    width: 55vw;
+    height: 8vh;
+}
+
+.retangulo2 {
+    background-color: rgba(50, 88, 54, 1);
+    width: 53.9vw;
+    height: 2vh;
+    margin-left: 15px;
+}
+
+#divimg2 {
+    position: absolute;
+    top: 153.5vh;
+    margin-left: 70px;
+    
+}
+
+#img2 {
+    background-color: rgb(32, 75, 117);
+    width: 480px;
+    height: 130px;
+}
+
+#img3 {
+    background-color: rgb(32, 75, 117);
+    width: 480px;
+    height: 100px;
+    margin-top: 55px;
+}
